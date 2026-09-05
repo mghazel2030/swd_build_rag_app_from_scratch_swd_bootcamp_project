@@ -1,0 +1,28 @@
+Northwind Traders — Remote Work Policy (Employee Handbook, Section 4)
+
+1. Eligibility
+Employees become eligible to work remotely after completing 90 days of continuous employment. Employees on a performance improvement plan are not eligible until the plan is closed out successfully. Interns and contractors are not covered by this policy and must follow the terms of their individual agreements.
+
+2. Remote Work Schedules
+Northwind Traders supports three remote work arrangements: Fully Remote, Hybrid (minimum 2 days in-office per week), and Occasional (up to 8 remote days per quarter). Employees must select an arrangement with their manager and record it in the HR system. Schedule changes require two weeks' notice to the employee's manager.
+
+3. Equipment
+The company provides a laptop, a monitor, and a one-time $300 home office stipend to employees approved for Fully Remote or Hybrid arrangements. The stipend must be claimed within 60 days of approval or it is forfeited. Employees are responsible for maintaining a reliable internet connection; Northwind Traders does not reimburse home internet bills.
+
+4. Core Hours
+All remote employees must be reachable between 11:00 AM and 3:00 PM in their local time zone, regardless of arrangement. Meetings that fall outside core hours should be recorded for employees in different time zones whenever possible.
+
+5. Security Requirements
+Remote employees must enable full-disk encryption on any device used for work, connect to internal systems only through the company VPN, and lock their screen when away from their device. Use of personal, non-encrypted devices to access customer data is prohibited under any circumstances.
+
+6. International Remote Work
+Working remotely from outside the country of employment requires written approval from both the employee's manager and HR at least 30 days in advance, due to tax and legal implications. Unapproved international remote work may result in disciplinary action.
+
+7. Performance Expectations
+Remote work arrangements are evaluated no less than once per quarter. A manager may revoke a Fully Remote or Hybrid arrangement, with two weeks' notice, if performance expectations are not being met. Employees may appeal a revocation to HR within 5 business days.
+
+8. Reimbursable Travel
+Employees who are Fully Remote and are required to travel to a company office for a mandatory event will be reimbursed for coach-class travel, standard lodging, and meals up to $75 per day, provided expenses are submitted within 30 days of travel.
+
+9. Policy Review
+This policy is reviewed annually by HR and Legal. The most recent review was completed in March. Questions about this policy should be directed to the HR helpdesk, not to individual managers.

@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: rag-from-scratch
+    runtime: node
+    plan: free
+    buildCommand: npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend
+    startCommand: npm start --prefix backend
+    healthCheckPath: /health
+    autoDeployTrigger: checksPass
+
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+      - key: HF_API_KEY
+        sync: false
+
+      - key: HF_EMBEDDING_MODEL
+        value: sentence-transformers/all-MiniLM-L6-v2
+
+      - key: OPENROUTER_API_KEY
+        sync: false
+
+      - key: OPENROUTER_MODEL
+        value: openrouter/free
